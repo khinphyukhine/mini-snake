@@ -1,4 +1,4 @@
-import './App.css';
+import './Game.css';
 import { useEffect, useState, useRef, useCallback } from 'react';
 
 const Game = () => {
